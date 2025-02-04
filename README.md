@@ -214,7 +214,7 @@
 <p align="center">
   <a>
     <img height="120" width="150" src="https://github.com/codeV124/codeV124/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeV124&theme=dark"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=V0410&theme=dark"/>
     <img height="120" width="150" src="https://github.com/codeV124/codeV124/blob/main/right.png">
   </a>
 </p>
